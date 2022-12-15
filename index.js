@@ -1,2 +1,2 @@
 const name = "test1";
-const value = 5555;
+const value = "new 666";
