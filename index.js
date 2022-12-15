@@ -1,2 +1,2 @@
-const name = "s123456777p! practice";
-const value = "new 666";
+const name = "stash pop! practice";
+const value = "new 777777";
